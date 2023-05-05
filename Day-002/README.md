@@ -1,5 +1,7 @@
 # Day 2 Understanding Data Types and How to Manipulate Strings
 
+## Topic: Data Types, Numbers, Operations, Type Conversion, f-strings
+
 ### Lesson:
 > Data Types: String, Integer, Float, Boolean
 ```
