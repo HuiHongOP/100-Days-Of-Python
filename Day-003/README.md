@@ -4,7 +4,11 @@
 
 ### Lesson:
 
+> The uses of logical operators such as `and`, `or`, `not`.
 
+> I Learned the difference between `if`, `elif` and `else`.
+
+> There are many functions that we can use such as `count()` to count the number of occurences in a string variable and `lower()` to lower all the string variable.
 
 
 ### Exercise
@@ -19,3 +23,9 @@
 5. Pizza order Practice [https://replit.com/@HuiHongOP/day-3-4-exercise#main.py](https://replit.com/@HuiHongOP/day-3-4-exercise#main.py)
    
 6. Love Calcaltor [https://replit.com/@HuiHongOP/day-3-5-Love-Calculator#main.py](https://replit.com/@HuiHongOP/day-3-5-Love-Calculator#main.py)
+
+
+### Project: Treasure Island
+[https://replit.com/@HuiHongOP/treasure-island-start-1](https://replit.com/@HuiHongOP/treasure-island-start-1)
+
+<img src="Demo/demo3.gif">
