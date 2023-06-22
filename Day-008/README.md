@@ -18,6 +18,6 @@
 4. Caesar Cipher Part 1 Encryption [https://replit.com/@HuiHongOP/caesar-cipher-1-start#main.py](https://replit.com/@HuiHongOP/caesar-cipher-1-start#main.py)
 5. Caesar Cipher Part 2 Decrpytion [https://replit.com/@HuiHongOP/caesar-cipher-2-start#main.py](https://replit.com/@HuiHongOP/caesar-cipher-2-start#main.py)
 6. Caesar Cipher Part 3 Reorganizing our Code [https://replit.com/@HuiHongOP/caesar-cipher-3-start#main.py](https://replit.com/@HuiHongOP/caesar-cipher-3-start#main.py)
-7. Casar Cipher Part 4 User Experience Improvements and Final Touches
+7. Casar Cipher Part 4 User Experience Improvements and Final Touches [https://replit.com/@HuiHongOP/caesar-cipher-4-start](https://replit.com/@HuiHongOP/caesar-cipher-4-start)
 
 <img src=demo/day8.gif>
