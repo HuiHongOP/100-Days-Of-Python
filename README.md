@@ -19,7 +19,7 @@ Each day will contain a readme.md that will explain the topic with examples and 
 <img src="Images/improvement.jpg">
 
 ``` 
-> It takes 21-31 days to routiniz a habit 
+> It takes 21-31 days to routinize a habit 
 ```
 
 # 📚 Lesson Content
