@@ -41,6 +41,13 @@ worksheet_endpoint = 'Youworkendpoints'
 today_date = dt.datetime.now().strftime('%d/%m/%Y')
 now_time = dt.datetime.now().strftime('%X')
 
+basic = HTTPBasicAuth('yourownUser', 'yourownPWD')
+    
+header_authorization = {
+    'Authorization': 'Basic yourown'
+}
+
+
 for exercise in result['exercises']:
 
     body = {
@@ -53,12 +60,4 @@ for exercise in result['exercises']:
                 'calories': exercise['nf_calories']
             }
     }
-
-basic = HTTPBasicAuth('yourownUser', 'yourownPWD')
-    
-header_authorization = {
-    'Authorization': 'Basic yourown'
-}
-
-response_worksheet = requests.post(url=worksheet_endpoint, json=body, headers=header_authorization, auth=basic)
-print(response_worksheet.text)
+    response_worksheet = requests.post(url=worksheet_endpoint, json=body, headers=header_authorization, auth=basic)
